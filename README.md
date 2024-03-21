@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practising the GitHub Flow
+Hey there! I'm your typical French cat-loving, anime-watching, book-devouring sushi enthusiast! When I'm not cuddling with my feline friend or binge-watching the latest anime series, you can bet I'm lost in the pages of a captivating book. And let's not forget about sushi – it's practically my soul food! Life's an adventure, and I'm here to soak up every moment of it, one kitty snuggle, anime episode, page-turner, and sushi roll at a time! 🐱🍣📚
